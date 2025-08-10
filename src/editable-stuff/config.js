@@ -44,7 +44,7 @@ const about = {
   message:
     "Hello, I am Muhammad Uzair, a Senior Full Stack Developer with 4.5+ years of progressive experience leading technical teams and architecting scalable cloud solutions. I have a proven track record of improving development processes by 40%, optimizing system performance, and leading junior developers. My expertise spans Java Spring Boot, React, Node.js, AWS architecture, and team leadership. I'm passionate about developing powerful Web Apps/APIs and Mobile apps, always seeking to push the boundaries of what's possible in the digital world through innovative solutions and collaborative teamwork.",
   resume:
-    "https://docs.google.com/document/d/10jziF7Qbd_P1SlF8JJDSCX3u6hbQyzb70Kfwi7mhu7o/edit?usp=sharing",
+    "https://drive.google.com/uc?export=download&id=1w3tBR1M86tmWeTiiQ_RqyLoTse1rxZdY",
 };
 
 // PROJECTS SECTION
