@@ -24,6 +24,10 @@ import Leadership from "./components/home/Leadership.jsx";
 import Experience from "./components/home/Experience";
 
 const Home = React.forwardRef((props, ref) => {
+  console.log('Home component rendered');
+  console.log('Home component props:', props);
+  console.log('Home component ref:', ref);
+  
   return (
     <>
       <MainBody
@@ -65,9 +69,17 @@ const Home = React.forwardRef((props, ref) => {
 
 const App = () => {
   const titleRef = React.useRef();
+  
+  console.log('App component rendered');
+  console.log('PUBLIC_URL:', process.env.PUBLIC_URL);
+  console.log('Current window location:', window.location.href);
+  console.log('Current pathname:', window.location.pathname);
 
+  const basename = process.env.PUBLIC_URL;
+  console.log('BrowserRouter basename:', basename);
+  
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={basename}>
       {/* {navBar.show && <Navbar ref={titleRef} />} */}
       <Routes>
         <Route path="/" exact element={<Home ref={titleRef} />} />
