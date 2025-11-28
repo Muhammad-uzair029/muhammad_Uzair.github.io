@@ -1,13 +1,10 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import {
-  navBar,
   mainBody,
   about,
-  leadership,
   skills,
   getInTouch,
-  experiences,
   projects,
 } from "./editable-stuff/config.js";
 import MainBody from "./components/home/MainBody";
@@ -19,9 +16,8 @@ import Skills from "./components/home/Skills";
 // import { Blog } from "./components/blog/Blog";
 // import BlogPost from "./components/blog/BlogPost";
 import GetInTouch from "./components/home/GetInTouch.jsx";
-import Leadership from "./components/home/Leadership.jsx";
-
-import Experience from "./components/home/Experience";
+// import Leadership from "./components/home/Leadership.jsx";
+// import Experience from "./components/home/Experience";
 
 const Home = React.forwardRef((props, ref) => {
   console.log('Home component rendered');

@@ -141,7 +141,7 @@
 //   );
 // };
 import React from 'react';
-import { Col, Card, Button } from 'react-bootstrap';
+import { Col, Card } from 'react-bootstrap';
 import { FiLink } from 'react-icons/fi'; // Assuming you're using react-icons for consistency
 
 const ProjectCard = ({ project }) => {
