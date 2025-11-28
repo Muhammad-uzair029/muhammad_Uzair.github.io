@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a4e54024.css",
-    "main.js": "/portfolio/static/js/main.69942475.js",
-    "static/js/787.e6fe0fcf.chunk.js": "/portfolio/static/js/787.e6fe0fcf.chunk.js",
-    "static/media/pp-profile.jpeg": "/portfolio/static/media/linkedin_profile.jpeg" ,
-    "index.html": "/portfolio/index.html",
-    "main.a4e54024.css.map": "/portfolio/static/css/main.a4e54024.css.map",
-    "main.69942475.js.map": "/portfolio/static/js/main.69942475.js.map",
-    "787.e6fe0fcf.chunk.js.map": "/portfolio/static/js/787.e6fe0fcf.chunk.js.map"
+    "main.css": "/muhammad_Uzair.github.io/static/css/main.10425d55.css",
+    "main.js": "/muhammad_Uzair.github.io/static/js/main.1d7181db.js",
+    "static/js/453.bd5be5b8.chunk.js": "/muhammad_Uzair.github.io/static/js/453.bd5be5b8.chunk.js",
+    "static/media/pp-profile.jpeg": "/muhammad_Uzair.github.io/static/media/pp-profile.85e120fa097c97a6b265.jpeg",
+    "index.html": "/muhammad_Uzair.github.io/index.html",
+    "main.10425d55.css.map": "/muhammad_Uzair.github.io/static/css/main.10425d55.css.map",
+    "main.1d7181db.js.map": "/muhammad_Uzair.github.io/static/js/main.1d7181db.js.map",
+    "453.bd5be5b8.chunk.js.map": "/muhammad_Uzair.github.io/static/js/453.bd5be5b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4e54024.css",
-    "static/js/main.69942475.js"
+    "static/css/main.10425d55.css",
+    "static/js/main.1d7181db.js"
   ]
 }
